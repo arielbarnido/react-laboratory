@@ -1,0 +1,90 @@
+
+arielbarnido@Yhel MINGW64 ~
+$ pwd
+/c/Users/arielbarnido
+
+arielbarnido@Yhel MINGW64 ~
+$ npm -v
+6.4.1
+
+arielbarnido@Yhel MINGW64 ~
+$ pwd
+/c/Users/arielbarnido
+
+arielbarnido@Yhel MINGW64 ~
+$ cd Documents/
+
+arielbarnido@Yhel MINGW64 ~/Documents
+$ ls
+'Custom Office Templates'/  Default.rdp  'My Pictures'@  'Wondershare Filmora'/  books/   comics/      ebook/  filmora/     lume.txt  nbi.txt   pics/   videos/
+DavinciResolve/             'My Music'@  'My Videos'@    audio-books/            coding/  desktop.ini  epub/   installers/  marvels/  pass.txt  songs/
+
+arielbarnido@Yhel MINGW64 ~/Documents
+$ cd co
+bash: cd: co: No such file or directory
+
+arielbarnido@Yhel MINGW64 ~/Documents
+$ cd coding/
+
+arielbarnido@Yhel MINGW64 ~/Documents/coding
+$ ls
+app/  bootstrap-modern-business/  lab/  react-lab/  startbootstrap-modern-business-gh-pages.zip
+
+arielbarnido@Yhel MINGW64 ~/Documents/coding
+$ cd react-lab/
+
+arielbarnido@Yhel MINGW64 ~/Documents/coding/react-lab
+$ ls
+
+arielbarnido@Yhel MINGW64 ~/Documents/coding/react-lab
+$ clear
+
+arielbarnido@Yhel MINGW64 ~/Documents/coding/react-lab
+$ npx create-react-app my-app
+npx: installed 91 in 94.252s
+
+Creating a new React app in C:\Users\arielbarnido\Documents\coding\react-lab\my-app.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts...
+
+
+> core-js@2.6.9 postinstall C:\Users\arielbarnido\Documents\coding\react-lab\my-app\node_modules\babel-runtime\node_modules\core-js
+> node scripts/postinstall || echo "ignore"
+
+
+> core-js-pure@3.1.4 postinstall C:\Users\arielbarnido\Documents\coding\react-lab\my-app\node_modules\core-js-pure
+> node scripts/postinstall || echo "ignore"
+
++ react@16.8.6
++ react-dom@16.8.6
++ react-scripts@3.0.1
+added 1411 packages from 724 contributors and audited 902137 packages in 539.017s
+found 0 vulnerabilities
+
+
+Success! Created my-app at C:\Users\arielbarnido\Documents\coding\react-lab\my-app
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you canât go back!
+
+We suggest that you begin by typing:
+
+  cd my-app
+  npm start
+
+Happy hacking!
+
+arielbarnido@Yhel MINGW64 ~/Documents/coding/react-lab
+$
